@@ -10,6 +10,6 @@ public class Controller {
     @RequestMapping("/contact")
     public String hello(){
         System.out.println("Hello world");
-        return "Contact info Found";
+        return "Feature change for PR";
     }
 }
